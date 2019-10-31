@@ -1,2 +1,4 @@
 # twitter_reply_bot
-A twitter bot that replies to mentions that include specific commands
+A twitter bot which replies to mentions that include specific commands.
+
+I run the script on a AWS EC2.
